@@ -1,4 +1,4 @@
-package ong.generation.EducAcao;
+package ong.generation.educAcao;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package ong.generation.EducAcao;
+package ong.generation.educAcao;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

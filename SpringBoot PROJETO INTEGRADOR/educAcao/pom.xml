@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ong.generation</groupId>
-	<artifactId>EducAcao</artifactId>
+	<artifactId>educAcao</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>EducAcao</name>
-	<description>Demo project for Spring Boot</description>
+	<name>educAcao</name>
+	<description>Projeto Integrador</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
