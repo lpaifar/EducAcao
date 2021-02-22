@@ -10,7 +10,6 @@ import javax.persistence.Id;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
-import ong.generation.educAcao.model.Postagem;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.sun.istack.NotNull;
@@ -24,7 +23,7 @@ public class Usuario {
 	private long id;
 	
 	@NotNull
-	private String nome_Completo;
+	private String nomeCompleto;
 	
 	@NotNull
 	private String email;
@@ -34,7 +33,7 @@ public class Usuario {
 	
 	@OneToMany(mappedBy = "usuario", cascade = CascadeType.ALL)
 	@JsonIgnoreProperties("usuario")
-	private List<Postagem> postagem;
+	private List<Usuario> usuario;
 
 	public long getId() {
 		return id;
@@ -45,11 +44,11 @@ public class Usuario {
 	}
 
 	public String getNome_Completo() {
-		return nome_Completo;
+		return nomeCompleto;
 	}
 
-	public void setNome_Completo(String nome_Completo) {
-		this.nome_Completo = nome_Completo;
+	public void setNome_Completo(String nomeCompleto) {
+		this.nomeCompleto = nomeCompleto;
 	}
 
 	public String getEmail() {
@@ -68,12 +67,12 @@ public class Usuario {
 		this.senha = senha;
 	}
 
-	public List<Postagem> getPostagem() {
-		return postagem;
+	public List<Usuario> getPostagem() {
+		return usuario;
 	}
 
-	public void setPostagem(List<Postagem> postagem) {
-		this.postagem = postagem;
+	public void setPostagem(List<Usuario> usuario) {
+		this.usuario = usuario;
 	}	
 
 }
