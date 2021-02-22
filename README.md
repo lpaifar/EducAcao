@@ -16,7 +16,7 @@ Integrantes:
 [<img src="https://avatars.githubusercontent.com/u/77506504?s=460&u=0c04ea63bbf6db5715a44710db43390789e8801d&v=4=" width=115 > <br> <sub> Felipe casagrande </sub>](https://github.com/fehcasa) |
 | :---: | 
 
-[<img src="https://avatars.githubusercontent.com/u/77506504?s=460&u=0c04ea63bbf6db5715a44710db43390789e8801d&v=4=" width=115 > <br> <sub> Leonardo Burjato </sub>](https://github.com/qbleonardo) |
+[<img src="https://avatars.githubusercontent.com/u/77284989?s=400&v=4" width=115 > <br> <sub> Leonardo Burjato </sub>](https://github.com/qbleonardo) |
 | :---: | 
 
 
