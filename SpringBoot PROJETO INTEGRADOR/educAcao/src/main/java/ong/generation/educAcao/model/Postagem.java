@@ -37,11 +37,11 @@ public class Postagem {
 	private Date data = new java.sql.Date(System.currentTimeMillis());
 	
 	@ManyToOne
-	@JsonIgnoreProperties("posagem")
+	@JsonIgnoreProperties("postagem")
 	private Tema tema;
 	
 	@ManyToOne
-	@JsonIgnoreProperties("posagem")
+	@JsonIgnoreProperties("postagem")
 	private Usuario usuario;
 	
 
