@@ -30,7 +30,6 @@ public class Postagem {
 	@Size(min= 1 , max=144)
 	private String conteudo;
 	
-	@NotNull
 	@Size(min = 10, max = 100)
 	private String referencia;
 	
