@@ -39,7 +39,7 @@ public class UsuarioController {
 	
 	@GetMapping("/nome/{nome}")
 	public ResponseEntity<List<Usuario>> getByName(@PathVariable String nome){
-		return ResponseEntity.ok(repository.findAllByNome_CompletoContainingIgnoreCase(nome));
+		return ResponseEntity.ok(repository.findAllByNomeCompletoContainingIgnoreCase(nome));
 	}
 	
 	@PostMapping
