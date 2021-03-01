@@ -1,7 +1,5 @@
 # Projeto Integrador 💡😁 
 
-### ⚡ Integrantes:  </b> </summary>
-<div align = "left">
 [<img src="https://avatars.githubusercontent.com/u/64035001?s=460&u=e0bdede595e70528fed1b2ea5ba820fdc2086a82&v=4=" width=115 > <br> <sub> Alonso Mendes </sub>](https://github.com/AlonsoMendes) |
 | :---: |
 
@@ -19,7 +17,7 @@
 
 [<img src="https://avatars.githubusercontent.com/u/77284989?s=400&v=4" width=115 > <br> <sub> Leonardo Burjato </sub>](https://github.com/qbleonardo) |
 | :---: | 
-</div>	
+
 
 
 # EducAção 📚✏️📖
